@@ -1,59 +1,56 @@
-# Hi there, I'm Hariharan G. 👋
+# Hey, I'm Hariharan G. 👋
 
-Welcome to my GitHub profile! I'm a passionate Artificial Intelligence and Data Science student with a strong interest in solving real-world problems through data-driven solutions. I specialize in machine learning, data analysis, and computer vision. Let's connect and collaborate! 🚀
-
----
-
-## 🧑‍💻 About Me:
-
-- 🎓 **3rd Year B.Tech Student** in Artificial Intelligence and Data Science at **Indra Ganesan College of Engineering**, Tamil Nadu.
-- 💡 **Passionate Learner**: Machine Learning, Deep Learning, Data Visualization, and AI technologies.
-- 🌟 **Aspiring Data Scientist**: Eager to contribute to innovative projects that make an impact.
-- 🌱 **Currently Exploring**: Advanced ML models, real-time analytics, and computer vision projects.
+Welcome to my GitHub profile! I'm a 3rd-year Artificial Intelligence and Data Science student, passionate about solving real-world problems using data. My main interests lie in machine learning, data analysis, and computer vision, and I’m always excited to connect and collaborate on cool projects. 🚀
 
 ---
 
-## 🔧 Technical Skills:
+## A Little About Me:
+
+- 🎓 **Currently pursuing B.Tech** in Artificial Intelligence and Data Science at **Indra Ganesan College of Engineering**, Tamil Nadu.
+- 💡 **Eager Learner**: Always diving deep into machine learning, deep learning, and AI technologies.
+- 🌟 **Aspiring Data Scientist**: I’m excited to work on projects that have a real impact and contribute to the future of technology.
+- 🌱 **Exploring**: Right now, I’m diving into advanced machine learning models, real-time analytics, and computer vision.
+
+---
+
+## My Skills:
 
 - **Programming Languages**: Python, SQL, R, MATLAB
-- **Libraries & Frameworks**: Numpy, Pandas, Matplotlib, Scikit Learn, etc. 
-- **Visualization Tools**: Tableau, Power BI
-- **Version Control**: Git, GitHub 
+- **Tools & Libraries**: Numpy, Pandas, Matplotlib, Scikit-learn, and more.
+- **Data Visualization**: Experienced with tools like Tableau and Power BI.
+- **Version Control**: Git and GitHub are my go-to for managing projects.
 
 ---
 
-## 💼 Projects:
+## Projects I’ve Worked On:
 
-### 📊 Predictive Inventory Management for Retail
+### 📊 **Predictive Inventory Management for Retail**
 
-- Developed a machine learning model using **Random Forest Regression** to optimize inventory management.
-- Achieved accurate demand forecasting through EDA and hyperparameter tuning.
-- Enabled reduction of operational costs and better decision-making.
+- Built a machine learning model with **Random Forest Regression** to optimize inventory for retail stores.
+- Focused on demand forecasting and fine-tuned the model to make predictions more accurate, helping businesses save costs and improve decision-making.
 
-### 🚗 Real-Time Vehicle Speed Detection with Ultralytics
+### 🚗 **Real-Time Vehicle Speed Detection with YOLOv8**
 
-- Designed a real-time speed detection system using **YOLOv8** and **OpenCV**.
-- Integrated **ByteTrack** for object tracking and calculated vehicle speeds in km/h.
-- Contributed to road safety analytics with a robust computer vision solution.
+- Developed a real-time speed detection system using **YOLOv8** and **OpenCV** for traffic analysis.
+- Integrated **ByteTrack** to track vehicles and calculate their speed in real-time, contributing to road safety insights.
 
 ---
 
-## 🏆 Certifications & Achievements:
+## Certifications & Achievements:
 
-- 🥇 **Kaggle Machine Learning and Visualization Certificate**
-- 📜 **365 Data Science: Intro to Data and Data Science Certificate**
+- 🏅 **Kaggle Machine Learning and Visualization Certificate**
+- 📜 **365 Data Science: Intro to Data Science Certificate**
 - 🎓 **Tata Virtual Internship for Data Visualization**
-- 🏅 Secured **2nd Place** in a technical quiz at MAM College of Engineering.
+- 🏆 **2nd Place** in a technical quiz at MAM College of Engineering.
 
 ---
 
-## 📫 Let's Connect:
+## Let's Get in Touch:
 
-- **Email**: [hariharangl005@gmail.com](mailto\:hariharangl005@gmail.com)
-- **LinkedIn**: https://www.linkedin.com/in/hariharangl
-- **GitHub**: [hariharangnanasekar](https://github.com/hariharangnanasekar)
+- 📧 **Email**: [hariharangl005@gmail.com](mailto:hariharangl005@gmail.com)
+- 🔗 **LinkedIn**: [hariharangl](https://www.linkedin.com/in/hariharangl)
+- 🔒 **GitHub**: [hariharangnanasekar](https://github.com/hariharangnanasekar)
 
 ---
 
-Thank you for visiting my profile! Feel free to explore my repositories and connect for collaborations. Let's create something amazing together! 🌟
-
+Thanks for your look! Feel free to check out my repositories, and if you're interested in collaborating on something exciting, don’t hesitate to reach out. Let’s build something amazing together! 🌟
