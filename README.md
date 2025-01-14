@@ -15,9 +15,9 @@ Welcome to my GitHub profile! I'm a 3rd-year Artificial Intelligence and Data Sc
 
 ## My Skills:
 
-- **Programming Languages**: Python, SQL, R, MATLAB
+- **Programming Languages**: Python, SQL
 - **Tools & Libraries**: Numpy, Pandas, Matplotlib, Scikit-learn, and more.
-- **Data Visualization**: Experienced with tools like Tableau and Power BI.
+- **Data Visualization**: Experienced with tool Tableau .
 - **Version Control**: Git and GitHub are my go-to for managing projects.
 
 ---
